@@ -33,6 +33,8 @@ type XmlVisualizerSectionProps = {
  * @returns
  */
 export const databaseChangeLogXmlStringBuilder = (changeLog: ChangeLogType): string => {
+	// most of the attributes in the <databaseChangeLog> tag is found in the XML
+	// example section here: https://docs.liquibase.com/concepts/changelogs/home.html
 	const openingTag = [
 		"<databaseChangeLog",
 		`${tab(1)}xmlns="http://www.liquibase.org/xml/ns/dbchangelog"`,
