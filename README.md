@@ -48,6 +48,18 @@ The app will be running at http://localhost:5173.
 
 </br>
 
+## Adding Changesets to the Changelog
+
+> A changeset is the basic unit of change in Liquibase. You store all your <a href="https://docs.liquibase.com/concepts/changelogs/changeset.html">changesets</a> in your <a href="https://docs.liquibase.com/concepts/changelogs/home.html">changelog</a>. Your changesets contain <a href="https://docs.liquibase.com/change-types/home.html">Change Types</a> (SQL statements applied to your database) that specify what each change does, such as creating a new table, adding a column to an existing table, inserting new data, or updating an existing database record.
+
+&nbsp;
+
+Clicking the **Add Changeset** button on the upper left corner adds a changeset to the changelog. Each changeset will automatically have a unique ID, which is derived from the logical file path.
+
+![image](https://github.com/user-attachments/assets/575b606d-5f8e-4215-ae7d-7018a756f57a)
+
+</br>
+
 ## User-Input to XML Mapping (for <a href="https://docs.liquibase.com/change-types/insert.html">Insert Change Type</a>)
 
 1. Author.
