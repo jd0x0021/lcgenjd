@@ -77,7 +77,7 @@ Clicking the **Add Changeset** button on the upper left corner adds a changeset 
 
 &nbsp;
 
-4. Database table's name (this is the table where we'll insert our new data).
+4. Database table's name (this is the table where we'll insert our new data). _Clicking the **Add Table** button in the changeset component will add a new database table._
 ![image](https://github.com/user-attachments/assets/92f7867e-1705-4587-bc45-b6e4d55b29c0)
 
 &nbsp;
