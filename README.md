@@ -22,6 +22,8 @@ git clone https://github.com/jd0x0021/lcgenjd.git
 2. Install dependencies
 ```bash
 cd lcgenjd
+```
+```bash
 npm install
 ```
 
