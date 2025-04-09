@@ -12,14 +12,14 @@
 # 1. Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository
+1. Clone the repository.
 ```bash
 git clone https://github.com/jd0x0021/lcgenjd.git
 ```
 
 &nbsp;
 
-2. Install dependencies
+2. Install dependencies.
 ```bash
 cd lcgenjd
 ```
@@ -29,7 +29,7 @@ npm install
 
 &nbsp;
 
-3. Start the application
+3. Start the application.
 ```bash
 npm run dev
 ```
@@ -100,7 +100,7 @@ Clicking the **Add Changeset** button on the upper left corner adds a changeset 
 
 &nbsp;
 
-8. Automatic rollbacks (all rows that are added by this changeset will be rolled back by this condition)
+8. Automatic rollbacks (all rows that are added by this changeset will be rolled back by this condition).
 ![image](https://github.com/user-attachments/assets/95558d51-f3e0-4256-bd2a-39fc61b7f140)
 
 </br>
